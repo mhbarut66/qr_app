@@ -1,6 +1,6 @@
 # qr_app
 
-A new Flutter project.
+A new Flutter project. I try to improve myself in Flutter. I follow this video while developing this project: https://www.youtube.com/watch?v=hm5JfFhiXL8&list=PLG5KvF1OpdCV0mGf8k7NNqFyI9qlwIiMl&index=1
 
 ## Getting Started
 
